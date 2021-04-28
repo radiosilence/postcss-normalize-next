@@ -1,4 +1,4 @@
-**[Forked from https://github.com/csstools/postcss-browser-comments](https://github.com/csstools/postcss-browser-comments)**
+**[Forked from https://github.com/csstools/postcss-normalize](https://github.com/csstools/postcss-normalize)**
 
 Packages has been forked to use [devpeerapong](https://github.com/devpeerapong/)'s PostCSS 8 compatibility updates.
 
