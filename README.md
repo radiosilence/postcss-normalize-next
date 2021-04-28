@@ -1,3 +1,8 @@
+**[Forked from https://github.com/csstools/postcss-browser-comments](https://github.com/csstools/postcss-browser-comments)**
+
+Packages has been forked to use [devpeerapong](https://github.com/devpeerapong/)'s PostCSS 8 compatibility updates.
+
+
 # PostCSS Normalize [<img src="https://postcss.github.io/postcss/logo.svg" alt="PostCSS" width="90" height="90" align="right">][postcss]
 
 [<img alt="npm version" src="https://img.shields.io/npm/v/postcss-normalize.svg" height="20">][npm-url]

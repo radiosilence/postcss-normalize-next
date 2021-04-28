@@ -5,8 +5,8 @@
   "author": "Jonathan Neal <jonathantneal@hotmail.com>",
   "license": "CC0-1.0",
   "repository": "csstools/postcss-normalize",
-  "homepage": "https://github.com/csstools/postcss-normalize#readme",
-  "bugs": "https://github.com/csstools/postcss-normalize/issues",
+  "homepage": "https://github.com/csstools/postcss-normalize-next#readme",
+  "bugs": "https://github.com/csstools/postcss-normalize-next/issues",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.mjs",
   "files": [
