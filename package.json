@@ -1,10 +1,10 @@
 {
   "name": "postcss-normalize-next",
-  "version": "10.0.1",
+  "version": "10.0.2",
   "description": "Use the parts of normalize.css or sanitize.css you need from your browserslist",
   "author": "Jonathan Neal <jonathantneal@hotmail.com>",
   "license": "CC0-1.0",
-  "repository": "csstools/postcss-normalize",
+  "repository": "radiosilence/postcss-normalize",
   "homepage": "https://github.com/radiosilence/postcss-normalize-next#readme",
   "bugs": "https://github.com/radiosilence/postcss-normalize-next/issues",
   "main": "dist/index.cjs.js",
