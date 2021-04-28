@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@csstools/normalize.css": "10.1.0",
-    "postcss-browser-comments": "^3.0.0",
+    "postcss-browser-comments-next": "^8.0.0",
     "sanitize.css": "11.0.0"
   },
   "devDependencies": {
